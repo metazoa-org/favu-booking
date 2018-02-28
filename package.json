@@ -1,0 +1,13 @@
+{
+  "name": "Favu-Booking",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./Favu-Booking.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metazoa-org/favu-booking"
+  },
+  "dependencies": {
+    "system-runtime": "^2.4.1"
+  }
+}
